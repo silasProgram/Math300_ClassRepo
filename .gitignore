@@ -224,3 +224,5 @@ Sep21/*.html
 *.gz
 *.toc
 *.vrb
+*.fdb_latexmk
+*.fls
